@@ -7,7 +7,7 @@ O compilador foi criado para transformar o código criado em LVN em um código i
 
 ## Execução
 
-Foi criado um ``Makefile`` com os comandos para a execução e o arquivo exemplo.lvn será direcionado para a entrar do compilador gerado ao final do script.
+Foi criado um ``Makefile`` com os comandos para a execução e o arquivo exemplo.lvn será direcionado para a entrada do compilador gerado ao final do script.
 
 ```console
 make
